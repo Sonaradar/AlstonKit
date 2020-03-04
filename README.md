@@ -1,7 +1,7 @@
 # AlstonKit
 this is a third party kit for netease minecraft launcher.
 
-It used to be paid,but now we decided to open source.
+It used to be paid,but now we decided to open source and COMPLETELY FREE XD.
 
 Before you edit this stuffs,please follow the Netease EULA protocol.We will never be responsible for your illegal action.
 
